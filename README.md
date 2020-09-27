@@ -21,6 +21,14 @@ gitbook <build|pdf|epub|mobi>       # 编译 HTML/PDF/EPUB/MOBI
 
 ## 下载
 
+### PYPI
+
+```
+pip install hands-on-ml-2e-zh
+hands-on-ml-2e-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
