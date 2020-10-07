@@ -17,3 +17,22 @@ gitbook fetch 3.2.3                 # 安装 gitbook 子版本
 gitbook install                     # 安装必要的插件
 gitbook <build|pdf|epub|mobi>       # 编译 HTML/PDF/EPUB/MOBI
 ```
+
+
+## 下载
+
+### PYPI
+
+```
+pip install hands-on-ml-2e-zh
+hands-on-ml-2e-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g handson-ml-2e-zh
+handson-ml-2e-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
