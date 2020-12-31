@@ -4,7 +4,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 懦夫才用磁带备份，真男人把重要的东西传到 FTP，然后世界会帮他备份。——林纳斯·托瓦兹
 
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 * [利用 Python 进行数据分析 第二版](https://github.com/apachecn/pyda-2e-zh)
